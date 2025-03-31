@@ -1,3 +1,15 @@
 title: "Data Hub"
 description: "Exploring data quality, compliance, and governance best practices using DAMA Framework."
 theme: jekyll-theme-cayman
+show_downloads: false
+
+# Navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: Documentation
+    url: /docs/
+  - title: Blog
+    url: /blog/
+  - title: About
+    url: /about/

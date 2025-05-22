@@ -9,5 +9,5 @@ In today’s digital age, we are surrounded by terms like data, information, con
 
 Every insight starts as a simple data point. It’s transformed into information, communicated as content, and ultimately becomes actionable knowledge.
 
-Imagine, you have a data → a daily sales numbers, this can be turn into an information → by identifying a weekend sales spike, to a content → that can be presented to show trend, then finally a knowledge → now you realize you need more weekend staff. This hirarchy of theory - it's a road map to better decisions.
+Imagine, you have a data → a daily sales numbers, this can be turn into an information → by identifying a weekend sales spike, to a content → that can be presented to show trend, then finally a knowledge → now you realize you need more weekend staff. This hierarchy of theory - it's a road map to better decisions.
 
